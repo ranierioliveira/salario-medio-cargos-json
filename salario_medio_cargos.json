@@ -1,0 +1,22 @@
+[
+    {
+        "nome_cargo": "Analista de Sistemas",
+        "salario_medio": 2500.0
+    },
+    {
+        "nome_cargo": "Desenvolvedor",
+        "salario_medio": 4000.0
+    },
+    {
+        "nome_cargo": "Coordenador",
+        "salario_medio": 6000.0
+    },
+    {
+        "nome_cargo": "Gerente de Projetos",
+        "salario_medio": 7000.0
+    },
+    {
+        "nome_cargo": "Diretor",
+        "salario_medio": 10000.0
+    }
+]
